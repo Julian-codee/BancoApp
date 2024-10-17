@@ -1,4 +1,4 @@
-//Creacion de la clase bancaria
+//Creacion de la clase cuentaBancaria
 
 class cuentaBancaria{
     String titular;
